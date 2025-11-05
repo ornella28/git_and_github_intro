@@ -3,7 +3,7 @@
 
 1. First navigate to your project directory with the "cd <directory>" command or open a cmd instance in the project folder.
 
-2. Use the command "git init". The command initializes a new Git repository in your current directory.
+2. Use the command `git init`. The command initializes a new Git repository in your current directory.
 
 3. Add this file (README.md) to the staging area using the command "git add README.md".
 
